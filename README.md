@@ -14,3 +14,6 @@ Diferenças entre **Docker Engine** e **Docker Desktop**:
 
 ## Dias 1 e 2 - Criando um ambiente Linux e configurando Docker, Git e WSL VSCode no Ubuntu para rodar este projeto por lá
 Já havia usado o Docker Desktop antes, mas fazer tudo via terminal e em um ambiente separado do meu pessoal foi muito satisfatório. Quanto mais aprendo, menos tenho necessidade de usar interfaces para trabalhar.
+
+## Dia 2 - Aprendendo mais sobre Node.js
+Sempre usei os comandos do node sem ter tanta noção do que ele fazia até hoje. A criação e conhecimento do arquivo **.nvmrc** vai resolver muitos problemas de versão de node que já enfrentei ao longo da minha carreira.
