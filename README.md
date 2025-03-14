@@ -19,3 +19,5 @@ Já havia usado o Docker Desktop antes, mas fazer tudo via terminal e em um ambi
 Sempre usei os comandos do node sem ter tanta noção do que ele fazia até hoje. A criação e conhecimento do arquivo **.nvmrc** vai resolver muitos problemas de versão de node que já enfrentei ao longo da minha carreira.
 
 Também foi instalado as dependências next, react e react-dom, além de incluir o node_modules no gitignore
+
+## Dia 3 - Rodando o projeto
