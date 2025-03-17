@@ -1,7 +1,9 @@
 # clone-tabnews
 Projeto focado em estudar técnicas mais avançadas de programação para chegar à senioridade, mas não deixando de ser uma colinha legal também.
 
-Arrumarei esse README como se fosse meu diário tech. Um passo a passo de como esse repositório está sendo criado, e o que estou aprendendo durante o desenvolvimento dele.
+Arrumarei esse README como se fosse meu diário tech. Um passo a passo de como esse repositório está sendo criado, e o que estou aprendendo durante o desenvolvimento dele.*
+
+O README acabou de ficar defasado kkkkkkkkkk, uma hora arrumo ele de novo.
 
 ## Dia 1 - Docker
 Diferenças entre **Hyper-V** e **WSL** para Windows:
