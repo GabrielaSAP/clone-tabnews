@@ -1,5 +1,7 @@
 function Home() {
-  return <div>Vitor, eu amo você. Se você me ama, dá uma risadinha!</div>;
+  return (
+    <div>Vibrações de amor para quem é importante e especial de verdade.</div>
+  );
 }
 
 export default Home;
